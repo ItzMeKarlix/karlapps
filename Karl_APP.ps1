@@ -1,0 +1,14 @@
+winget install -e --id Notepad++.Notepad++;
+winget install -e --id PrismLauncher.PrismLauncher;
+winget install -e --id JetBrains.IntelliJIDEA.Community;
+winget install -e --id Nvidia.Broadcast;
+winget install -e --id Nvidia.GeForceExperience;
+winget install -e --id Brave.Brave;
+winget install -e --id Google.Chrome;
+winget install -e --id Valve.Steam;
+winget install -e --id VB-Audio.Voicemeeter;
+winget install -e --id OBSProject.OBSStudio;
+winget install -e --id Microsoft.VisualStudioCode;
+winget install -e --id Termius.Termius;
+winget install -e --id VideoLAN.VLC;
+winget install -e --id Discord.Discord
